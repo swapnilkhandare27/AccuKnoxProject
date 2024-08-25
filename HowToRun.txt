@@ -1,0 +1,19 @@
+step 1 : In terminal give command -> npm start
+
+step 2 : You can see the category on dashboard, click on add widget
+
+step 3 : Choose any category to add widget
+
+step 4 : At bottom then click add button
+
+step 5 : enter the widget name you want to create
+
+step 6 : select chart type
+
+step 7 : choose color by clicking the right side button of field name
+
+step 8 : percentage of that field
+
+step 9 : Click on add field, You can then add another field again
+
+step 10 : Click on Add Card
